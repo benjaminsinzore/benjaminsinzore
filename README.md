@@ -16,7 +16,7 @@ I am a data enthusiast with a strong analytical background and hands-on experien
 	
 
 🏆 Achievement: 
-- Worked with Extra Inch Technologies - Technical Leader 
+- Worked with Extra Inch Technologies - Lead Engineer
 - Worked with BOMA Project - Database Administrator 
 
 
@@ -25,7 +25,7 @@ I am a data enthusiast with a strong analytical background and hands-on experien
 👯 I’m looking to collaborate on NLP projects
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benjaminsinzore&layout=compact)](https://github.com/benjaminsinzore)
 
-💪 Let's streakkkkk
+💪 Let's streak
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=benjaminsinzore)](https://git.io/streak-stats)
 
