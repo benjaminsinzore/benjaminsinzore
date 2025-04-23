@@ -8,8 +8,8 @@ I am a data enthusiast with a strong analytical background and hands-on experien
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/C#-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/C%23-239120?&style=for-the-badge&logo=csharp&logoColor=white)
+![](https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=java&logoColor=black)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
