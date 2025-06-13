@@ -17,7 +17,7 @@ I am a software developer and a data enthusiast with a strong analytical backgro
 
 🏆 Achievement: 
 - Worked with Extra Inch Technologies - Lead Engineer
-- Worked with BOMA Project - Database Administrator 
+- Worked with BOMA Project - Data Engineer 
 
 
 
